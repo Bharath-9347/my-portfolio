@@ -1,0 +1,41 @@
+.resume-container {
+  text-align: center;
+  padding: 4rem 2rem;
+  min-height: 80vh;
+  background-color: #f5f7fa;
+}
+
+.resume-container h1 {
+  color: #007bff;
+  margin-bottom: 1rem;
+}
+
+.resume-container p {
+  font-size: 1.1rem;
+  color: #444;
+  margin-bottom: 2rem;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.btn-group {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.btn-resume {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.btn-resume:hover {
+  background-color: #0056b3;
+}
