@@ -9,7 +9,7 @@ function Education() {
       <div className="edu-card">
         <h2>Master of Computer Applications (MCA)</h2>
         <p><strong>Institution:</strong> MSRIT</p>
-        <p><strong>CGPA:</strong> 7.38</p>
+        <p><strong>CGPA:</strong> 7.74</p>
         <p><strong>Year:</strong> 2023 – 2025</p>
       </div>
 

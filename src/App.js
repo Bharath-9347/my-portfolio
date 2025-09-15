@@ -10,8 +10,7 @@ import Experience from "./pages/Experience";
 import Certifications from "./pages/Certifications";
 import Resume from "./pages/Resume";
 import Contact from "./pages/Contact";
-import './App.css'; // ✅ this is required
-
+import './App.css'; 
 
 function App() {
   return (
